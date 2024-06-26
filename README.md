@@ -1,4 +1,4 @@
-# 🎥 SoniTranslate 🈷️
+# 🎥 Aleph Webeta 🈷️
 
 🎬 Video Translation with Synchronized Audio 🌐
 
